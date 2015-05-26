@@ -7,6 +7,7 @@
 //
 import Alamofire
 import Foundation
+import UIKit
 
 public class CustomFetcher<T : DataConvertible> : Fetcher<T> {
     
